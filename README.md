@@ -89,7 +89,7 @@ VMware → Édition → Éditeur de réseau virtuel
 
 ![image](https://hackmd.io/_uploads/BJbCji-xGe.png)
 
-> ⚠️ **Important :** L'adaptateur VMware VMnet1 sur le PC hôte recevra automatiquement l'IP `172.16.0.1`
+> **Important :** L'adaptateur VMware VMnet1 sur le PC hôte recevra automatiquement l'IP `172.16.0.1`
 
 ![image](https://hackmd.io/_uploads/SkFgnoWgMl.png)
 
